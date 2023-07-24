@@ -7,7 +7,7 @@ function Intro() {
       <div className="mt-4">
         <h1 className="hidden sm:block text-white text-xl text-center">
           Seamlessly Generate TypeScript Interfaces with Runtime Validation from
-          JSON, JSON Schema, and GraphQL Queries"
+          JSON, JSON Schema, and GraphQL Queries
         </h1>
       </div>
       <div className="flex items-center justify-center gap-2 md:gap-3 ">
